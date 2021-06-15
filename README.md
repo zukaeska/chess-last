@@ -1,1 +1,1 @@
-# chess-last
+https://zukaeska.github.io/chess-last/
